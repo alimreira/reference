@@ -75,10 +75,10 @@ public class First  {
         this.occupation = occupation;
     }
 
-    @Override
-    public String buyItem(String cat) {
-        return "wholesales";
-    }
+//    @Override
+//    public String buyItem(String cat) {
+//        return "wholesales";
+//    }
 
 
     public static void main(String[] args) {

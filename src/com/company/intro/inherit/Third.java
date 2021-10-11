@@ -1,8 +1,8 @@
 package com.company.intro.inherit;
 
 public interface  Third {
-    public static final int itemCost;
-public static final String item;
+//    public static final int itemCost;
+//public static final String item;
 
     public abstract String buyItem();
 
